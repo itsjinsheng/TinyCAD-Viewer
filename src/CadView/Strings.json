@@ -1,0 +1,1122 @@
+{
+  "打开图纸": [
+    "打开图纸",
+    "Open drawing",
+    "도면 열기"
+  ],
+  "最近文件": [
+    "最近文件",
+    "Recent files",
+    "최근 파일"
+  ],
+  "帮助": [
+    "帮助",
+    "Help",
+    "도움말"
+  ],
+  "Ctrl+O · 打开 DWG / DXF": [
+    "Ctrl+O · 打开 DWG / DXF",
+    "Ctrl+O · Open DWG / DXF",
+    "Ctrl+O · DWG / DXF 열기"
+  ],
+  "使用帮助与开源许可": [
+    "使用帮助与开源许可",
+    "User guide and open-source licenses",
+    "사용 안내 및 오픈 소스 라이선스"
+  ],
+  "选择": [
+    "选择",
+    "Select",
+    "선택"
+  ],
+  "距离": [
+    "距离",
+    "Distance",
+    "거리"
+  ],
+  "累计": [
+    "累计",
+    "Length",
+    "누적 길이"
+  ],
+  "角度": [
+    "角度",
+    "Angle",
+    "각도"
+  ],
+  "面积": [
+    "面积",
+    "Area",
+    "면적"
+  ],
+  "半径": [
+    "半径",
+    "Radius",
+    "반지름"
+  ],
+  "实体": [
+    "实体",
+    "Entity",
+    "객체"
+  ],
+  "全图": [
+    "全图",
+    "Fit all",
+    "전체 보기"
+  ],
+  "框选": [
+    "框选",
+    "Zoom box",
+    "영역 확대"
+  ],
+  "放大": [
+    "放大",
+    "Zoom in",
+    "확대"
+  ],
+  "缩小": [
+    "缩小",
+    "Zoom out",
+    "축소"
+  ],
+  "打印区域": [
+    "打印区域",
+    "Print area",
+    "출력 영역"
+  ],
+  "导出 PNG": [
+    "导出 PNG",
+    "Export PNG",
+    "PNG 내보내기"
+  ],
+  "打印 / PDF": [
+    "打印 / PDF",
+    "Print / PDF",
+    "인쇄 / PDF"
+  ],
+  "选择对象 · Esc": [
+    "选择对象 · Esc",
+    "Select an object · Esc",
+    "객체 선택 · Esc"
+  ],
+  "两点距离、水平和垂直距离": [
+    "两点距离、水平和垂直距离",
+    "Distance, horizontal and vertical offsets",
+    "두 점 거리, 수평 및 수직 거리"
+  ],
+  "连续取点测量累计长度 · 双击或 Enter 完成": [
+    "连续取点测量累计长度 · 双击或 Enter 完成",
+    "Pick points for total length · Double-click or Enter to finish",
+    "연속 점으로 누적 길이 측정 · 더블 클릭 또는 Enter로 완료"
+  ],
+  "顶点 → 第一边 → 第二边": [
+    "顶点 → 第一边 → 第二边",
+    "Vertex → first arm → second arm",
+    "꼭짓점 → 첫 번째 변 → 두 번째 변"
+  ],
+  "多边形面积 · 点击起点、双击或 Enter 闭合": [
+    "多边形面积 · 点击起点、双击或 Enter 闭合",
+    "Polygon area · Click the start, double-click or press Enter to close",
+    "다각형 면적 · 시작점 클릭, 더블 클릭 또는 Enter로 닫기"
+  ],
+  "选择圆或圆弧，读取半径和直径": [
+    "选择圆或圆弧，读取半径和直径",
+    "Select a circle or arc for radius and diameter",
+    "원 또는 호를 선택하여 반지름과 지름 확인"
+  ],
+  "读取实体长度、周长和封闭面积": [
+    "读取实体长度、周长和封闭面积",
+    "Read entity length, perimeter and enclosed area",
+    "객체 길이, 둘레 및 닫힌 면적 확인"
+  ],
+  "显示全部图形 · F": [
+    "显示全部图形 · F",
+    "Fit all geometry · F",
+    "전체 도형 표시 · F"
+  ],
+  "依次点击两个角点，放大该区域": [
+    "依次点击两个角点，放大该区域",
+    "Click two corners to zoom into a region",
+    "두 모서리를 차례로 클릭하여 영역 확대"
+  ],
+  "依次点击两个角点设定输出区域；再次点击取消区域": [
+    "依次点击两个角点设定输出区域；再次点击取消区域",
+    "Click two corners to set the output area; click again to clear it",
+    "두 모서리를 클릭하여 출력 영역 지정; 다시 누르면 해제"
+  ],
+  "打开二维图纸": [
+    "打开二维图纸",
+    "Open a 2D drawing",
+    "2D 도면 열기"
+  ],
+  "拖入 DWG / DXF，或选择文件": [
+    "拖入 DWG / DXF，或选择文件",
+    "Drop a DWG / DXF here, or choose a file",
+    "DWG / DXF를 끌어 놓거나 파일을 선택하세요"
+  ],
+  "图纸仅在本机读取": [
+    "图纸仅在本机读取",
+    "Drawings are read locally",
+    "도면은 이 컴퓨터에서만 읽습니다"
+  ],
+  "正在读取图纸…": [
+    "正在读取图纸…",
+    "Loading drawing…",
+    "도면 불러오는 중…"
+  ],
+  "大图纸可能需要一些时间": [
+    "大图纸可能需要一些时间",
+    "Large drawings may take a little longer",
+    "큰 도면은 시간이 더 걸릴 수 있습니다"
+  ],
+  "取消读取": [
+    "取消读取",
+    "Cancel loading",
+    "불러오기 취소"
+  ],
+  "读取报告": [
+    "读取报告",
+    "Load report",
+    "읽기 보고서"
+  ],
+  "对象属性": [
+    "对象属性",
+    "Properties",
+    "속성"
+  ],
+  "测量记录": [
+    "测量记录",
+    "Measures",
+    "측정 기록"
+  ],
+  "查找文字": [
+    "查找文字",
+    "Find text",
+    "문자 찾기"
+  ],
+  "图层": [
+    "图层",
+    "Layers",
+    "도면층"
+  ],
+  "点击图形查看几何信息": [
+    "点击图形查看几何信息",
+    "Click an object to inspect its geometry",
+    "객체를 클릭하여 형상 정보 확인"
+  ],
+  "未选中对象": [
+    "未选中对象",
+    "No object selected",
+    "선택한 객체 없음"
+  ],
+  "选择上方测量工具后，在图中取点。": [
+    "选择上方测量工具后，在图中取点。",
+    "Choose a measurement tool, then pick points in the drawing.",
+    "위에서 측정 도구를 선택한 후 도면에서 점을 지정하세요."
+  ],
+  "0 条记录": [
+    "0 条记录",
+    "0 records",
+    "기록 0개"
+  ],
+  "单击选中高亮测量尺，双击定位图形": [
+    "单击选中高亮测量尺，双击定位图形",
+    "Click to highlight a measurement; double-click to locate it",
+    "클릭하여 측정 강조, 더블 클릭하여 위치로 이동"
+  ],
+  "记录 {0:00}": [
+    "记录 {0:00}",
+    "Record {0:00}",
+    "기록 {0:00}"
+  ],
+  "删除记录": [
+    "删除记录",
+    "Delete",
+    "기록 삭제"
+  ],
+  "删除选中的单条测量记录": [
+    "删除选中的单条测量记录",
+    "Delete the selected measurement",
+    "선택한 측정 기록 삭제"
+  ],
+  "清空": [
+    "清空",
+    "Clear all",
+    "모두 지우기"
+  ],
+  "查找当前图纸中的文字": [
+    "查找当前图纸中的文字",
+    "Find text in the current drawing",
+    "현재 도면에서 문자 찾기"
+  ],
+  "输入关键字，按 Enter 查找下一个": [
+    "输入关键字，按 Enter 查找下一个",
+    "Enter a keyword; press Enter for the next match",
+    "검색어 입력 후 Enter로 다음 항목 찾기"
+  ],
+  "查找文字…": [
+    "查找文字…",
+    "Find text…",
+    "문자 찾기…"
+  ],
+  "查找下一个": [
+    "查找下一个",
+    "Find next",
+    "다음 찾기"
+  ],
+  "在当前空间已显示的文字中查找。": [
+    "在当前空间已显示的文字中查找。",
+    "Search visible text in the current space.",
+    "현재 공간에 표시된 문자를 검색합니다."
+  ],
+  "图层：": [
+    "图层：",
+    "Layer: ",
+    "도면층: "
+  ],
+  "筛选图层名称": [
+    "筛选图层名称",
+    "Filter layers by name",
+    "도면층 이름으로 필터"
+  ],
+  "筛选图层…": [
+    "筛选图层…",
+    "Filter layers…",
+    "도면층 필터…"
+  ],
+  "全开": [
+    "全开",
+    "Show all",
+    "모두 켜기"
+  ],
+  "全关": [
+    "全关",
+    "Hide all",
+    "모두 끄기"
+  ],
+  "尚无图层": [
+    "尚无图层",
+    "No layers",
+    "도면층 없음"
+  ],
+  "空间": [
+    "空间",
+    "Space",
+    "공간"
+  ],
+  "模型": [
+    "模型",
+    "Model",
+    "모형"
+  ],
+  "捕捉": [
+    "捕捉",
+    "Snap",
+    "스냅"
+  ],
+  "对象捕捉 · F3": [
+    "对象捕捉 · F3",
+    "Object snap · F3",
+    "객체 스냅 · F3"
+  ],
+  "网格": [
+    "网格",
+    "Grid",
+    "그리드"
+  ],
+  "线宽": [
+    "线宽",
+    "Weights",
+    "선 가중치"
+  ],
+  "白底": [
+    "白底",
+    "Light",
+    "밝은 배경"
+  ],
+  "Direct3D 11 硬件加速试验；关闭恢复原预览渲染": [
+    "Direct3D 11 硬件加速试验；关闭恢复原预览渲染",
+    "Direct3D 11 acceleration; turn off to use preview rendering",
+    "Direct3D 11 가속; 끄면 미리 보기 렌더링 사용"
+  ],
+  "单位：图纸单位": [
+    "单位：图纸单位",
+    "Units: drawing units",
+    "단위: 도면 단위"
+  ],
+  "小数位": [
+    "小数位",
+    "Decimals",
+    "소수 자릿수"
+  ],
+  "DWG / DXF · 本地只读": [
+    "DWG / DXF · 本地只读",
+    "DWG / DXF · Local, read-only",
+    "DWG / DXF · 로컬 읽기 전용"
+  ],
+  "Ctrl+O 打开图纸 · 滚轮缩放 · 中键平移 · Esc 返回选择": [
+    "Ctrl+O 打开图纸 · 滚轮缩放 · 中键平移 · Esc 返回选择",
+    "Ctrl+O open · Wheel zoom · Middle-button pan · Esc select",
+    "Ctrl+O 열기 · 휠 확대/축소 · 가운데 버튼 이동 · Esc 선택"
+  ],
+  "语言": [
+    "语言",
+    "Language",
+    "언어"
+  ],
+  "{0} 条记录": [
+    "{0} 条记录",
+    "{0} records",
+    "기록 {0}개"
+  ],
+  "依次点击两点。按住 Shift 可正交取点。": [
+    "依次点击两点。按住 Shift 可正交取点。",
+    "Pick two points. Hold Shift for orthogonal input.",
+    "두 점을 차례로 선택하세요. Shift를 누르면 직교 입력이 됩니다."
+  ],
+  "连续取点，双击或 Enter 完成；捕捉开启可吸附起点。": [
+    "连续取点，双击或 Enter 完成；捕捉开启可吸附起点。",
+    "Pick points; double-click or Enter to finish. Snap can target the start.",
+    "연속으로 점을 선택하고 더블 클릭 또는 Enter로 완료하세요. 스냅으로 시작점에 맞출 수 있습니다."
+  ],
+  "依次点击：顶点 → 第一边 → 第二边。": [
+    "依次点击：顶点 → 第一边 → 第二边。",
+    "Pick the vertex, then a point on each arm.",
+    "꼭짓점, 첫 번째 변의 점, 두 번째 변의 점 순서로 선택하세요."
+  ],
+  "沿边界取点，点击起点或双击闭合；右键取消。": [
+    "沿边界取点，点击起点或双击闭合；右键取消。",
+    "Pick boundary points; click the start or double-click to close. Right-click cancels.",
+    "경계를 따라 점을 선택한 후 시작점 클릭 또는 더블 클릭으로 닫으세요. 오른쪽 클릭으로 취소합니다."
+  ],
+  "点击圆或圆弧，读取半径与直径。": [
+    "点击圆或圆弧，读取半径与直径。",
+    "Click a circle or arc for radius and diameter.",
+    "원 또는 호를 클릭하여 반지름과 지름을 확인하세요."
+  ],
+  "点击实体，读取长度、周长和封闭面积。": [
+    "点击实体，读取长度、周长和封闭面积。",
+    "Click an entity for length, perimeter and enclosed area.",
+    "객체를 클릭하여 길이, 둘레 및 닫힌 면적을 확인하세요."
+  ],
+  "正在读取：": [
+    "正在读取：",
+    "Loading: ",
+    "불러오는 중: "
+  ],
+  "读取已取消": [
+    "读取已取消",
+    "Loading canceled",
+    "불러오기 취소됨"
+  ],
+  "读取失败，原图保持打开": [
+    "读取失败，原图保持打开",
+    "Loading failed; the previous drawing remains open",
+    "불러오기 실패; 이전 도면을 유지합니다"
+  ],
+  "无法打开图纸": [
+    "无法打开图纸",
+    "Cannot open drawing",
+    "도면을 열 수 없음"
+  ],
+  "演示图纸": [
+    "演示图纸",
+    "Demo drawing",
+    "예제 도면"
+  ],
+  "{0:N0} 个显示对象 · {1} 个图层 · 只读": [
+    "{0:N0} 个显示对象 · {1} 个图层 · 只读",
+    "{0:N0} objects · {1} layers · Read-only",
+    "객체 {0:N0}개 · 도면층 {1}개 · 읽기 전용"
+  ],
+  "单位：": [
+    "单位：",
+    "Units: ",
+    "단위: "
+  ],
+  "读取报告 · 无解析警告": [
+    "读取报告 · 无解析警告",
+    "Load report · No warnings",
+    "읽기 보고서 · 경고 없음"
+  ],
+  "读取报告 · {0} 类提示": [
+    "读取报告 · {0} 类提示",
+    "Load report · {0} notices",
+    "읽기 보고서 · 알림 {0}종"
+  ],
+  "已打开 · 滚轮缩放，中键拖动，点击对象查询": [
+    "已打开 · 滚轮缩放，中键拖动，点击对象查询",
+    "Loaded · Wheel to zoom, middle-button to pan, click to inspect",
+    "열림 · 휠로 확대/축소, 가운데 버튼으로 이동, 클릭하여 정보 확인"
+  ],
+  "已打开 · 存在显示或解析提示，请查看右侧“读取报告”": [
+    "已打开 · 存在显示或解析提示，请查看右侧“读取报告”",
+    "Loaded · See the load report for display or parsing notices",
+    "열림 · 표시 및 해석 알림은 오른쪽 읽기 보고서를 확인하세요"
+  ],
+  "{0} 个图层 · {1} 个开启": [
+    "{0} 个图层 · {1} 个开启",
+    "{0} layers · {1} visible",
+    "도면층 {0}개 · {1}개 켜짐"
+  ],
+  "CAD 图纸 (*.dwg;*.dxf)|*.dwg;*.dxf": [
+    "CAD 图纸 (*.dwg;*.dxf)|*.dwg;*.dxf",
+    "CAD drawings (*.dwg;*.dxf)|*.dwg;*.dxf",
+    "CAD 도면 (*.dwg;*.dxf)|*.dwg;*.dxf"
+  ],
+  "暂无最近文件": [
+    "暂无最近文件",
+    "No recent files",
+    "최근 파일 없음"
+  ],
+  "请输入要查找的文字。": [
+    "请输入要查找的文字。",
+    "Enter text to search for.",
+    "찾을 문자를 입력하세요."
+  ],
+  "未找到匹配的可见文字。": [
+    "未找到匹配的可见文字。",
+    "No matching visible text.",
+    "일치하는 표시 문자가 없습니다."
+  ],
+  "该文字的图层已隐藏，请重新查找。": [
+    "该文字的图层已隐藏，请重新查找。",
+    "This text is on a hidden layer. Search again.",
+    "이 문자의 도면층이 숨겨져 있습니다. 다시 검색하세요."
+  ],
+  "第 {0} / {1} 处 · 选中结果定位文字": [
+    "第 {0} / {1} 处 · 选中结果定位文字",
+    "Match {0} of {1} · Select a result to locate it",
+    "{1}개 중 {0}번째 · 결과를 선택하여 위치로 이동"
+  ],
+  "点击实体查询，或选择测量工具。": [
+    "点击实体查询，或选择测量工具。",
+    "Click an object to inspect it, or choose a measurement tool.",
+    "객체를 클릭하여 정보를 보거나 측정 도구를 선택하세요."
+  ],
+  "布局预览：测量请切换模型空间。非矩形或非俯视视口见读取报告。": [
+    "布局预览：测量请切换模型空间。非矩形或非俯视视口见读取报告。",
+    "Layout preview: switch to Model for measurements. See the load report for viewport limitations.",
+    "배치 미리 보기: 측정하려면 모형 공간으로 전환하세요. 뷰포트 제한은 읽기 보고서를 확인하세요."
+  ],
+  "请先选择要删除的测量记录": [
+    "请先选择要删除的测量记录",
+    "Select a measurement to delete",
+    "삭제할 측정 기록을 먼저 선택하세요"
+  ],
+  "已删除选中的测量记录": [
+    "已删除选中的测量记录",
+    "Selected measurement deleted",
+    "선택한 측정 기록 삭제됨"
+  ],
+  "已请求取消读取": [
+    "已请求取消读取",
+    "Canceling loading…",
+    "불러오기 취소 중…"
+  ],
+  "图纸读取报告": [
+    "图纸读取报告",
+    "Drawing load report",
+    "도면 읽기 보고서"
+  ],
+  "尚未打开图纸。": [
+    "尚未打开图纸。",
+    "No drawing is open.",
+    "열린 도면이 없습니다."
+  ],
+  "图纸单位：": [
+    "图纸单位：",
+    "Drawing units: ",
+    "도면 단위: "
+  ],
+  "解析器没有报告警告。仍请在正式使用前对照原图核验。": [
+    "解析器没有报告警告。仍请在正式使用前对照原图核验。",
+    "The parser reported no warnings. Verify against the original CAD before production use.",
+    "해석 경고가 없습니다. 실제 사용 전에 원본 CAD와 대조하세요."
+  ],
+  "[{0} 次] {1}": [
+    "[{0} 次] {1}",
+    "[{0} occurrences] {1}",
+    "[{0}회] {1}"
+  ],
+  "帮助与开源许可": [
+    "帮助与开源许可",
+    "Help and open-source licenses",
+    "도움말 및 오픈 소스 라이선스"
+  ],
+  "语言已切换并保存": [
+    "语言已切换并保存",
+    "Language changed and saved",
+    "언어 변경 및 저장 완료"
+  ],
+  "语言已切换，但无法保存设置：{0}": [
+    "语言已切换，但无法保存设置：{0}",
+    "Language changed, but settings could not be saved: {0}",
+    "언어가 변경되었지만 설정을 저장하지 못했습니다: {0}"
+  ],
+  "正在解析图纸…": [
+    "正在解析图纸…",
+    "Parsing drawing…",
+    "도면 해석 중…"
+  ],
+  "正在整理图层和空间…": [
+    "正在整理图层和空间…",
+    "Preparing layers and spaces…",
+    "도면층 및 공간 준비 중…"
+  ],
+  "正在转换图形…": [
+    "正在转换图形…",
+    "Converting geometry…",
+    "형상 변환 중…"
+  ],
+  "已处理 {0:N0} 个对象": [
+    "已处理 {0:N0} 个对象",
+    "Processed {0:N0} objects",
+    "객체 {0:N0}개 처리됨"
+  ],
+  "正在准备显示…": [
+    "正在准备显示…",
+    "Preparing display…",
+    "화면 준비 중…"
+  ],
+  "正在准备 GPU 图形…": [
+    "正在准备 GPU 图形…",
+    "Preparing GPU geometry…",
+    "GPU 형상 준비 중…"
+  ],
+  "正在生成图纸预览…": [
+    "正在生成图纸预览…",
+    "Preparing drawing preview…",
+    "도면 미리 보기 생성 중…"
+  ],
+  "操作未完成": [
+    "操作未完成",
+    "Operation incomplete",
+    "작업을 완료하지 못했습니다"
+  ],
+  "图纸单位": [
+    "图纸单位",
+    "drawing units",
+    "도면 단위"
+  ],
+  "请切换到模型空间测量。布局只用于查看，避免纸面比例造成误测。": [
+    "请切换到模型空间测量。布局只用于查看，避免纸面比例造成误测。",
+    "Switch to Model for measurements. Layouts are view-only to avoid paper-scale errors.",
+    "측정하려면 모형 공간으로 전환하세요. 배치는 축척에 따른 오차를 피하기 위해 보기만 지원합니다."
+  ],
+  "依次点击两点测量距离 · Shift 正交 · Esc 退出": [
+    "依次点击两点测量距离 · Shift 正交 · Esc 退出",
+    "Pick two points · Shift orthogonal · Esc exit",
+    "두 점으로 거리 측정 · Shift 직교 · Esc 종료"
+  ],
+  "连续取点 · 双击或 Enter 完成 · 右键取消": [
+    "连续取点 · 双击或 Enter 完成 · 右键取消",
+    "Pick points · Double-click or Enter to finish · Right-click cancels",
+    "연속 점 선택 · 더블 클릭 또는 Enter 완료 · 오른쪽 클릭 취소"
+  ],
+  "依次取点 · 点击起点或双击闭合 · 右键取消": [
+    "依次取点 · 点击起点或双击闭合 · 右键取消",
+    "Pick points · Click start or double-click to close · Right-click cancels",
+    "점 선택 · 시작점 클릭 또는 더블 클릭으로 닫기 · 오른쪽 클릭 취소"
+  ],
+  "依次点击：角的顶点 → 第一边 → 第二边": [
+    "依次点击：角的顶点 → 第一边 → 第二边",
+    "Pick: angle vertex → first arm → second arm",
+    "선택 순서: 각의 꼭짓점 → 첫 번째 변 → 두 번째 변"
+  ],
+  "点击圆或圆弧，读取半径和直径": [
+    "点击圆或圆弧，读取半径和直径",
+    "Click a circle or arc for radius and diameter",
+    "원 또는 호를 클릭하여 반지름과 지름 확인"
+  ],
+  "点击实体，读取长度、周长和封闭面积": [
+    "点击实体，读取长度、周长和封闭面积",
+    "Click an entity for length, perimeter and enclosed area",
+    "객체를 클릭하여 길이, 둘레 및 닫힌 면적 확인"
+  ],
+  "依次点击两个角点框选放大 · 右键或 Esc 取消": [
+    "依次点击两个角点框选放大 · 右键或 Esc 取消",
+    "Click two corners to zoom · Right-click or Esc cancels",
+    "두 모서리를 클릭하여 확대 · 오른쪽 클릭 또는 Esc 취소"
+  ],
+  "点击查询对象 · 滚轮缩放 · 中键拖动 · F 全图": [
+    "点击查询对象 · 滚轮缩放 · 中键拖动 · F 全图",
+    "Click to inspect · Wheel zoom · Middle-button pan · F fit all",
+    "클릭하여 정보 확인 · 휠 확대/축소 · 가운데 버튼 이동 · F 전체 보기"
+  ],
+  "已取消选择": [
+    "已取消选择",
+    "Selection cleared",
+    "선택 해제됨"
+  ],
+  "已定位测量记录 · 橙色为当前测量尺 · ": [
+    "已定位测量记录 · 橙色为当前测量尺 · ",
+    "Measurement located · Current measure is orange · ",
+    "측정 위치로 이동 · 현재 측정은 주황색 · "
+  ],
+  "端点": [
+    "端点",
+    "Endpoint",
+    "끝점"
+  ],
+  "中点": [
+    "中点",
+    "Midpoint",
+    "중간점"
+  ],
+  "中心": [
+    "中心",
+    "Center",
+    "중심"
+  ],
+  "象限点": [
+    "象限点",
+    "Quadrant",
+    "사분점"
+  ],
+  "垂足": [
+    "垂足",
+    "Perpendicular",
+    "수직점"
+  ],
+  "交点": [
+    "交点",
+    "Intersection",
+    "교차점"
+  ],
+  "最近点": [
+    "最近点",
+    "Nearest",
+    "근처점"
+  ],
+  "请选择框选的第二个角点 · 右键或 Esc 取消": [
+    "请选择框选的第二个角点 · 右键或 Esc 取消",
+    "Pick the second zoom-box corner · Right-click or Esc cancels",
+    "확대 영역의 두 번째 모서리 선택 · 오른쪽 클릭 또는 Esc 취소"
+  ],
+  "{0}   当前段 {1} {2}": [
+    "{0}   当前段 {1} {2}",
+    "{0}   Current segment {1} {2}",
+    "{0}   현재 구간 {1} {2}"
+  ],
+  "正交": [
+    "正交",
+    "Ortho",
+    "직교"
+  ],
+  "捕捉已开启": [
+    "捕捉已开启",
+    "Snap on",
+    "스냅 켜짐"
+  ],
+  "捕捉已关闭": [
+    "捕捉已关闭",
+    "Snap off",
+    "스냅 꺼짐"
+  ],
+  "拖入 DWG / DXF 图纸，或点击“打开图纸”": [
+    "拖入 DWG / DXF 图纸，或点击“打开图纸”",
+    "Drop a DWG / DXF, or click Open drawing",
+    "DWG / DXF를 끌어 놓거나 도면 열기를 클릭하세요"
+  ],
+  "Direct3D 11 硬件加速试验": [
+    "Direct3D 11 硬件加速试验",
+    "Direct3D 11 hardware acceleration",
+    "Direct3D 11 하드웨어 가속"
+  ],
+  "已切回稳定版预览渲染": [
+    "已切回稳定版预览渲染",
+    "Switched to preview rendering",
+    "미리 보기 렌더링으로 전환됨"
+  ],
+  "Direct3D 11 未能运行，已回退：": [
+    "Direct3D 11 未能运行，已回退：",
+    "Direct3D 11 failed; using preview rendering: ",
+    "Direct3D 11 오류로 미리 보기 렌더링 사용: "
+  ],
+  "当前桌面会话不支持 WPF 硬件合成。": [
+    "当前桌面会话不支持 WPF 硬件合成。",
+    "This desktop session does not support WPF hardware composition.",
+    "현재 데스크톱 세션은 WPF 하드웨어 합성을 지원하지 않습니다."
+  ],
+  "近似 ": [
+    "近似 ",
+    "Approx. ",
+    "근삿값 "
+  ],
+  "文字：": [
+    "文字：",
+    "Text: ",
+    "문자: "
+  ],
+  "填充对象：本版本不提供填充面积测量": [
+    "填充对象：本版本不提供填充面积测量",
+    "Hatch: area measurement is not supported in this version",
+    "해치: 이 버전에서는 해치 면적 측정을 지원하지 않습니다"
+  ],
+  "{0}长度：{1} {2}": [
+    "{0}长度：{1} {2}",
+    "{0}Length: {1} {2}",
+    "{0}길이: {1} {2}"
+  ],
+  "{0}面积：{1} {2}²（简单边界）": [
+    "{0}面积：{1} {2}²（简单边界）",
+    "{0}Area: {1} {2}² (simple boundary)",
+    "{0}면적: {1} {2}² (단순 경계)"
+  ],
+  "布局投影对象；尺寸请在模型空间查询": [
+    "布局投影对象；尺寸请在模型空间查询",
+    "Layout projection; inspect dimensions in Model space",
+    "배치 투영 객체; 치수는 모형 공간에서 확인하세요"
+  ],
+  "闭合起点": [
+    "闭合起点",
+    "Closing point",
+    "닫기 시작점"
+  ],
+  "累计起点": [
+    "累计起点",
+    "Length start",
+    "누적 시작점"
+  ],
+  "半径 {0} · 直径 {1} {2}": [
+    "半径 {0} · 直径 {1} {2}",
+    "Radius {0} · Diameter {1} {2}",
+    "반지름 {0} · 지름 {1} {2}"
+  ],
+  "请选择圆或圆弧；非等比例缩放的椭圆没有单一半径。": [
+    "请选择圆或圆弧；非等比例缩放的椭圆没有单一半径。",
+    "Select a circle or arc; a nonuniformly scaled ellipse has no single radius.",
+    "원 또는 호를 선택하세요. 비균일 축척 타원에는 단일 반지름이 없습니다."
+  ],
+  "距离 {0} {1} · ΔX {2} · ΔY {3}": [
+    "距离 {0} {1} · ΔX {2} · ΔY {3}",
+    "Distance {0} {1} · ΔX {2} · ΔY {3}",
+    "거리 {0} {1} · ΔX {2} · ΔY {3}"
+  ],
+  "夹角 {0}°": [
+    "夹角 {0}°",
+    "Angle {0}°",
+    "각도 {0}°"
+  ],
+  "角的两条边长度必须大于零。": [
+    "角的两条边长度必须大于零。",
+    "Both arms of the angle must have nonzero length.",
+    "각을 이루는 두 변의 길이는 0보다 커야 합니다."
+  ],
+  "累计长度 {0} {1}": [
+    "累计长度 {0} {1}",
+    "Total length {0} {1}",
+    "누적 길이 {0} {1}"
+  ],
+  "多边形有自交，无法给出有效面积；请撤回交叉点。": [
+    "多边形有自交，无法给出有效面积；请撤回交叉点。",
+    "The polygon intersects itself. Undo the crossing point to measure a valid area.",
+    "다각형이 자체 교차합니다. 교차점을 취소해야 유효한 면적을 구할 수 있습니다."
+  ],
+  "面积 {0} {1}² · 周长 {2} {1}": [
+    "面积 {0} {1}² · 周长 {2} {1}",
+    "Area {0} {1}² · Perimeter {2} {1}",
+    "면적 {0} {1}² · 둘레 {2} {1}"
+  ],
+  "点数不足：累计长度至少 2 点，面积至少 3 点。": [
+    "点数不足：累计长度至少 2 点，面积至少 3 点。",
+    "Not enough points: length needs 2, area needs 3.",
+    "점이 부족합니다. 누적 길이는 최소 2점, 면적은 최소 3점이 필요합니다."
+  ],
+  "已取消打印区域，导出和打印恢复为当前视图": [
+    "已取消打印区域，导出和打印恢复为当前视图",
+    "Print area cleared; export and print use the current view",
+    "출력 영역 해제됨; 현재 화면을 내보내고 인쇄합니다"
+  ],
+  "请选择打印区域的第一个角点 · 右键或 Esc 取消": [
+    "请选择打印区域的第一个角点 · 右键或 Esc 取消",
+    "Pick the first print-area corner · Right-click or Esc cancels",
+    "출력 영역의 첫 번째 모서리 선택 · 오른쪽 클릭 또는 Esc 취소"
+  ],
+  "请选择打印区域的第二个角点 · 右键或 Esc 取消": [
+    "请选择打印区域的第二个角点 · 右键或 Esc 取消",
+    "Pick the second print-area corner · Right-click or Esc cancels",
+    "출력 영역의 두 번째 모서리 선택 · 오른쪽 클릭 또는 Esc 취소"
+  ],
+  "打印区域过小，请重新选择第二个角点": [
+    "打印区域过小，请重新选择第二个角点",
+    "Print area is too small; choose another second corner",
+    "출력 영역이 너무 작습니다. 두 번째 모서리를 다시 선택하세요"
+  ],
+  "已设置打印区域：PNG 和打印/PDF 只输出橙色框内内容 · 再点打印区域可取消": [
+    "已设置打印区域：PNG 和打印/PDF 只输出橙色框内内容 · 再点打印区域可取消",
+    "Print area set: PNG and print/PDF use the orange rectangle · Click Print area again to clear",
+    "출력 영역 설정됨: 주황색 사각형 안의 내용만 PNG 및 인쇄/PDF로 출력 · 다시 누르면 해제"
+  ],
+  "图纸预览生成失败：": [
+    "图纸预览生成失败：",
+    "Drawing preview failed: ",
+    "도면 미리 보기 생성 실패: "
+  ],
+  "解析器：{0}": [
+    "解析器：{0}",
+    "Parser: {0}",
+    "해석기: {0}"
+  ],
+  "请选择 DWG 或 DXF 文件。": [
+    "请选择 DWG 或 DXF 文件。",
+    "Choose a DWG or DXF file.",
+    "DWG 또는 DXF 파일을 선택하세요."
+  ],
+  "图纸单位（未指定）": [
+    "图纸单位（未指定）",
+    "drawing units (unspecified)",
+    "도면 단위 (미지정)"
+  ],
+  "字体替代：{0} → Microsoft YaHei；字形和排版可能不同": [
+    "字体替代：{0} → Microsoft YaHei；字形和排版可能不同",
+    "Font substitution: {0} → Microsoft YaHei; glyphs and layout may differ",
+    "글꼴 대체: {0} → Microsoft YaHei; 글자 모양과 배치가 다를 수 있습니다"
+  ],
+  "布局存在非矩形裁剪或非俯视视口，未显示其模型内容": [
+    "布局存在非矩形裁剪或非俯视视口，未显示其模型内容",
+    "Nonrectangular or non-top-view layout viewport: model content omitted",
+    "직사각형이 아니거나 평면도가 아닌 배치 뷰포트: 모형 내용 생략"
+  ],
+  "没有可显示的二维实体": [
+    "没有可显示的二维实体",
+    "No displayable 2D entities",
+    "표시할 수 있는 2D 객체 없음"
+  ],
+  "块嵌套超过 32 层或存在循环引用，已停止展开": [
+    "块嵌套超过 32 层或存在循环引用，已停止展开",
+    "Block expansion stopped: over 32 nested levels or circular reference",
+    "블록 전개 중지: 32단계 초과 중첩 또는 순환 참조"
+  ],
+  "图纸超过本版本的 200 万展开实体限制。": [
+    "图纸超过本版本的 200 万展开实体限制。",
+    "The drawing exceeds the limit of 2 million expanded entities.",
+    "도면이 전개된 객체 200만 개 제한을 초과했습니다."
+  ],
+  "非 XY 平面实体已跳过：{0}": [
+    "非 XY 平面实体已跳过：{0}",
+    "Non-XY-plane entity skipped: {0}",
+    "XY 평면 외 객체 생략: {0}"
+  ],
+  "块定义缺失": [
+    "块定义缺失",
+    "Missing block definition",
+    "블록 정의 누락"
+  ],
+  "外部引用未自动加载：{0}": [
+    "外部引用未自动加载：{0}",
+    "External reference not loaded automatically: {0}",
+    "외부 참조를 자동으로 불러오지 않음: {0}"
+  ],
+  "动态块按保存的块几何显示，动态参数未求值": [
+    "动态块按保存的块几何显示，动态参数未求值",
+    "Dynamic blocks show saved geometry; parameters are not evaluated",
+    "동적 블록은 저장된 형상으로 표시하며 매개변수를 계산하지 않습니다"
+  ],
+  "标注缺少显示块，未显示：{0}": [
+    "标注缺少显示块，未显示：{0}",
+    "Dimension has no display block and was omitted: {0}",
+    "치수의 표시 블록이 없어 생략됨: {0}"
+  ],
+  "复杂线型中的文字/形状未显示：{0}": [
+    "复杂线型中的文字/形状未显示：{0}",
+    "Text/shapes in complex linetypes omitted: {0}",
+    "복합 선종류의 문자/모양 생략: {0}"
+  ],
+  "特殊线型按连续线显示：{0}": [
+    "特殊线型按连续线显示：{0}",
+    "Special linetype shown as continuous: {0}",
+    "특수 선종류를 연속선으로 표시: {0}"
+  ],
+  "宽多段线按中心线显示": [
+    "宽多段线按中心线显示",
+    "Wide polylines shown as centerlines",
+    "폭이 있는 폴리선을 중심선으로 표시"
+  ],
+  "无效样条已跳过": [
+    "无效样条已跳过",
+    "Invalid spline skipped",
+    "잘못된 스플라인 생략"
+  ],
+  "样条采用折线近似显示与查询": [
+    "样条采用折线近似显示与查询",
+    "Splines use polyline approximations for display and measurement",
+    "스플라인은 표시 및 측정 시 폴리선 근사를 사용합니다"
+  ],
+  "特殊文字对齐、倾斜或镜像采用简化排版": [
+    "特殊文字对齐、倾斜或镜像采用简化排版",
+    "Special text alignment, obliquing and mirroring use simplified layout",
+    "특수 문자 정렬, 기울임 및 반전은 단순화하여 표시합니다"
+  ],
+  "多行文字按纯文本显示，复杂格式和自动换行未还原": [
+    "多行文字按纯文本显示，复杂格式和自动换行未还原",
+    "Multiline text is plain text; complex formatting and wrapping are simplified",
+    "여러 줄 문자는 일반 텍스트로 표시하며 복잡한 서식과 자동 줄바꿈은 단순화합니다"
+  ],
+  "图案填充仅显示边界": [
+    "图案填充仅显示边界",
+    "Pattern hatches show boundaries only",
+    "패턴 해치는 경계만 표시합니다"
+  ],
+  "未支持的实体：{0}": [
+    "未支持的实体：{0}",
+    "Unsupported entity: {0}",
+    "지원하지 않는 객체: {0}"
+  ],
+  "无效几何范围：{0}": [
+    "无效几何范围：{0}",
+    "Invalid geometry bounds: {0}",
+    "잘못된 형상 범위: {0}"
+  ],
+  "实体 {0} 显示失败：{1}": [
+    "实体 {0} 显示失败：{1}",
+    "Failed to display entity {0}: {1}",
+    "객체 {0} 표시 실패: {1}"
+  ],
+  "填充边界未完整解析": [
+    "填充边界未完整解析",
+    "Hatch boundary was not fully parsed",
+    "해치 경계를 완전히 해석하지 못했습니다"
+  ],
+  "细化场景缺少固定图形缓存。": [
+    "细化场景缺少固定图形缓存。",
+    "Refinement is missing its fixed geometry cache.",
+    "상세화에 필요한 고정 형상 캐시가 없습니다."
+  ],
+  "GPU 未及时完成绘制，回退稳定渲染。": [
+    "GPU 未及时完成绘制，回退稳定渲染。",
+    "GPU render timed out; reverting to preview rendering.",
+    "GPU 렌더링 시간이 초과되어 미리 보기 렌더링으로 전환합니다."
+  ],
+  "GPU 图形缓存超过试验版容量，使用稳定渲染。": [
+    "GPU 图形缓存超过试验版容量，使用稳定渲染。",
+    "GPU geometry cache limit reached; using preview rendering.",
+    "GPU 형상 캐시 한도에 도달하여 미리 보기 렌더링을 사용합니다."
+  ],
+  "PNG 宽高须在 1–8192 像素内。": [
+    "PNG 宽高须在 1–8192 像素内。",
+    "PNG width and height must be between 1 and 8192 pixels.",
+    "PNG 너비와 높이는 1~8192픽셀이어야 합니다."
+  ],
+  "当前桌面会话无法生成图像，请在已解锁的本地桌面重试导出。": [
+    "当前桌面会话无法生成图像，请在已解锁的本地桌面重试导出。",
+    "This desktop session cannot render images. Retry on an unlocked local desktop.",
+    "현재 데스크톱 세션에서 이미지를 생성할 수 없습니다. 잠금 해제된 로컬 데스크톱에서 다시 시도하세요."
+  ],
+  "PNG 图片|*.png": [
+    "PNG 图片|*.png",
+    "PNG image|*.png",
+    "PNG 이미지|*.png"
+  ],
+  "图纸预览.png": [
+    "图纸预览.png",
+    "Drawing-preview.png",
+    "도면-미리보기.png"
+  ],
+  "已导出": [
+    "已导出",
+    "Exported ",
+    "내보내기 완료: "
+  ],
+  "打印区域：": [
+    "打印区域：",
+    "print area: ",
+    "출력 영역: "
+  ],
+  "当前视图：": [
+    "当前视图：",
+    "current view: ",
+    "현재 화면: "
+  ],
+  "当前视图": [
+    "当前视图",
+    "Current view",
+    "현재 화면"
+  ],
+  "（适应纸张，非工程比例出图）": [
+    "（适应纸张，非工程比例出图）",
+    " (fit to page, not an engineering scale)",
+    " (용지에 맞춤, 설계 축척 아님)"
+  ],
+  "选择保存位置…": [
+    "选择保存位置…",
+    "Choose save location…",
+    "저장 위치 선택…"
+  ],
+  "导出 PNG · 分辨率": [
+    "导出 PNG · 分辨率",
+    "Export PNG · Resolution",
+    "PNG 내보내기 · 해상도"
+  ],
+  "输出范围：已设定的打印区域": [
+    "输出范围：已设定的打印区域",
+    "Output: selected print area",
+    "출력 범위: 지정한 출력 영역"
+  ],
+  "输出范围：当前视图": [
+    "输出范围：当前视图",
+    "Output: current view",
+    "출력 범위: 현재 화면"
+  ],
+  "宽度（像素）": [
+    "宽度（像素）",
+    "Width (pixels)",
+    "너비 (픽셀)"
+  ],
+  "高度（像素）": [
+    "高度（像素）",
+    "Height (pixels)",
+    "높이 (픽셀)"
+  ],
+  "宽高自动保持比例，最长边不超过 8192 像素。": [
+    "宽高自动保持比例，最长边不超过 8192 像素。",
+    "Aspect ratio is preserved. The longest side cannot exceed 8192 pixels.",
+    "가로세로 비율을 유지합니다. 가장 긴 변은 8192픽셀을 넘을 수 없습니다."
+  ],
+  " 倍": [
+    " 倍",
+    "×",
+    "배"
+  ],
+  "取消": [
+    "取消",
+    "Cancel",
+    "취소"
+  ],
+  "导出尺寸：{0} × {1} 像素": [
+    "导出尺寸：{0} × {1} 像素",
+    "Output size: {0} × {1} pixels",
+    "출력 크기: {0} × {1}픽셀"
+  ],
+  "请输入有效的整数尺寸，宽高均须在 1–8192 像素内。": [
+    "请输入有效的整数尺寸，宽高均须在 1–8192 像素内。",
+    "Enter whole-number dimensions between 1 and 8192 pixels.",
+    "너비와 높이를 1~8192픽셀의 정수로 입력하세요."
+  ],
+  "HelpBody": [
+    "二维 DWG / DXF 查看与测量工具\n\n打开与加载\nCtrl+O 打开图纸，也可把 DWG / DXF 拖入窗口。图纸只在本机读取，不上传、不修改原始文件。加载时显示进度条、当前阶段和已处理对象数；解析阶段没有可靠的总百分比，因此使用滚动进度条。读取与转换期间可取消，图形准备显示后完成加载。\n\n语言与设置\n右上角可切换中文、English、한국어，界面和帮助立即更新，当前图纸、视角及测量记录保留。语言保存在 %LOCALAPPDATA%/TinyCAD/settings.json，重启后自动恢复。图纸内的文字、图层名称及布局名称保持原样。系统文件选择和打印窗口使用 Windows 的语言。\n\n导航与图层\n滚轮以鼠标位置缩放；中键或空格＋左键平移；F 显示全图；框选工具依次点击两个角点放大。右侧“图层”页签支持名称筛选、单层开关、全开和全关。对象属性、测量记录与文字查找也在右侧。Ctrl+F 查找文字，Enter 查找下一处。\n\n测量与捕捉\n距离：依次选两点，显示距离及 ΔX / ΔY。\n累计：连续取点，双击或 Enter 完成；开启捕捉时可吸附起点。\n角度：依次选择顶点、第一边点、第二边点。\n面积：沿边界取点，点击起点、双击或 Enter 闭合；自交多边形不能生成有效面积。\n半径：点击圆或圆弧；实体：读取长度、周长及简单封闭边界面积。\nShift 正交取点，F3 切换捕捉，Backspace 撤回上一点，右键或 Esc 取消当前操作。面积工具以直线连接所选点；带弧轮廓请使用实体工具。\n\n测量记录\n单击记录高亮，双击定位。标注文本框可以拖动，虚线连接测量位置；支持删除单条或清空。切换语言保留记录。关闭软件、换图或切换空间会清空记录，请先导出 PNG 或打印保存。\n\n导出与打印\n打印区域工具以两个角点设置区域，再次点击取消。设置后 PNG、打印/PDF 只输出区域内的图形和测量标注，否则输出当前视图。PNG 可设宽高及 1/2/4 倍尺寸，保持比例，最长边为 8192 像素。打印适应纸张，不是工程比例出图；可使用 Microsoft Print to PDF。\n\nGPU 与精度\n默认启用 Direct3D 11；底部 GPU 开关可切回预览渲染，硬件失败时自动回退。测量使用图纸几何坐标，屏幕缩放不影响数值。单位读取图纸头，未指定时不猜测毫米。现有尺寸标注文字可能经过人工覆盖，请以实际几何为准。布局仅供预览，测量请使用模型空间。\n\n兼容性\nSHX / 原 CAD 字体使用系统字体替代；复杂文字排版、线型和图案填充有所简化。动态块显示保存的几何；外部引用不自动加载；代理、AEC、底图及非 XY / 三维对象等存在限制。样条与椭圆长度为近似值。请查阅读取报告并与原 CAD 核验。第三方解析器消息和许可证保留原文。\n\n开源许可与第三方声明\n\n单位：底部可切换 mm / in（英寸），选择自动保存。长度、坐标、面积和已有测量标签随之换算（1 in = 25.4 mm），图纸几何和角度不变。图纸未指定或无法识别单位时保留图纸原始数值，禁用换算；不会猜测毫米。",
+    "2D DWG / DXF viewer and measurement tool\n\nOpening and loading\nUse Ctrl+O or drop a DWG / DXF into the window. Drawings are read locally, never uploaded or modified. A progress bar shows the current loading stage and processed object count. Parsing has no reliable total percentage, so the bar is indeterminate. Reading and geometry conversion can be canceled; loading finishes after display preparation.\n\nLanguage and settings\nChoose 中文, English or 한국어 at the top right. The interface and help update immediately while the drawing, view and measurements are retained. The choice is saved to %LOCALAPPDATA%/TinyCAD/settings.json and restored on startup. Drawing text, layer names and layout names are unchanged. System file and print dialogs follow the Windows language.\n\nNavigation and layers\nUse the wheel to zoom at the pointer; drag with the middle button or Space + left button to pan. F fits the drawing. Zoom box uses two corner clicks. The Layers tab on the right offers name filtering, individual visibility, Show all and Hide all. Properties, Measures and Find text are also on the right. Ctrl+F opens text search; Enter finds the next match.\n\nMeasurement and snapping\nDistance: pick two points to read distance and ΔX / ΔY.\nLength: pick successive points; double-click or Enter finishes. Snap can target the starting point.\nAngle: pick the vertex, a point on the first arm, then a point on the second.\nArea: pick boundary vertices; click the start, double-click or Enter to close. Self-intersecting polygons are rejected.\nRadius: click a circle or arc. Entity: read length, perimeter and simple enclosed area.\nHold Shift for orthogonal input; F3 toggles snap; Backspace removes the last point; right-click or Esc cancels the current operation. The Area tool joins points with straight lines. Use Entity for curved outlines.\n\nMeasurement records\nClick a record to highlight it; double-click to locate it. Drag label boxes to move them; dashed leaders remain attached to the measured geometry. Delete one record or clear all. Language changes preserve records. Closing the app, opening another drawing or switching spaces clears them; export PNG or print first to retain results.\n\nExport and print\nSet Print area with two corner clicks; click the tool again to clear it. PNG and print/PDF use that region, including measurements, or the current view if no region is set. PNG supports custom dimensions and 1× / 2× / 4× presets, preserves aspect ratio and limits the longest side to 8192 pixels. Printing fits the page and is not engineering-scale output. Microsoft Print to PDF may be used.\n\nGPU and accuracy\nDirect3D 11 is enabled by default. Turn GPU off to use preview rendering; hardware failures trigger automatic fallback. Measurements use drawing coordinates, independent of display zoom. Units come from the drawing header; unspecified units are not assumed to be millimeters. Existing dimension labels may contain manual overrides; verify actual geometry. Layouts are previews; measure in Model space.\n\nCompatibility\nSystem fonts replace SHX / original CAD fonts. Complex text, linetypes and pattern hatches are simplified. Dynamic blocks show saved geometry. External references are not loaded automatically. Proxy, AEC, underlay, non-XY and 3D objects have limitations. Splines and ellipse lengths are approximate. Review the load report and compare with the original CAD. Third-party parser messages and licenses retain their original language.\n\nOpen-source licenses and third-party notices\n\nUnits: switch between mm and in (inches) on the bottom bar. The choice is saved. Lengths, coordinates, areas and existing measurement labels convert (1 in = 25.4 mm); geometry and angles stay unchanged. If drawing units are unspecified or unsupported, original values are retained and conversion is disabled.",
+    "2D DWG / DXF 뷰어 및 측정 도구\n\n열기 및 불러오기\nCtrl+O를 누르거나 DWG / DXF를 창으로 끌어 놓으세요. 도면은 이 컴퓨터에서만 읽으며 업로드하거나 원본 파일을 수정하지 않습니다. 진행 막대에 현재 단계와 처리한 객체 수를 표시합니다. 해석 단계에서는 전체 진행률을 정확히 알 수 없어 움직이는 진행 막대를 사용합니다. 읽기 및 형상 변환 중에는 취소할 수 있으며 화면 준비 후 불러오기가 완료됩니다.\n\n언어 및 설정\n오른쪽 위에서 中文, English, 한국어를 선택하세요. 도면, 화면 위치 및 측정 기록을 유지하면서 인터페이스와 도움말이 즉시 바뀝니다. 언어는 %LOCALAPPDATA%/TinyCAD/settings.json에 저장되어 다음 실행 시 복원됩니다. 도면 안의 문자, 도면층 이름 및 배치 이름은 바뀌지 않습니다. 시스템 파일 선택 및 인쇄 창은 Windows 언어를 따릅니다.\n\n화면 이동 및 도면층\n휠로 마우스 위치를 기준으로 확대/축소합니다. 가운데 버튼 또는 Space + 왼쪽 버튼으로 이동하고 F로 전체 도면을 표시합니다. 영역 확대는 두 모서리를 차례로 클릭합니다. 오른쪽 도면층 탭에서 이름 필터, 개별 표시, 모두 켜기 및 모두 끄기를 사용할 수 있습니다. 속성, 측정 기록 및 문자 찾기도 오른쪽에 있습니다. Ctrl+F로 문자 검색을 열고 Enter로 다음 항목을 찾습니다.\n\n측정 및 스냅\n거리: 두 점을 선택하여 거리와 ΔX / ΔY를 확인합니다.\n누적 길이: 연속으로 점을 선택하고 더블 클릭 또는 Enter로 완료합니다. 스냅으로 시작점에 맞출 수 있습니다.\n각도: 꼭짓점, 첫 번째 변의 점, 두 번째 변의 점을 차례로 선택합니다.\n면적: 경계 꼭짓점을 선택하고 시작점 클릭, 더블 클릭 또는 Enter로 닫습니다. 자체 교차 다각형은 허용하지 않습니다.\n반지름: 원 또는 호를 클릭합니다. 객체: 길이, 둘레 및 단순한 닫힌 경계의 면적을 확인합니다.\nShift는 직교 입력, F3는 스냅 전환, Backspace는 마지막 점 취소, 오른쪽 클릭 또는 Esc는 현재 작업 취소입니다. 면적 도구는 점을 직선으로 연결합니다. 호가 포함된 윤곽은 객체 도구를 사용하세요.\n\n측정 기록\n기록을 클릭하면 강조되고 더블 클릭하면 해당 위치로 이동합니다. 측정 텍스트 상자는 끌어서 옮길 수 있으며 점선은 측정 형상에 연결됩니다. 개별 삭제 및 모두 지우기를 지원합니다. 언어 변경 시 기록을 유지합니다. 앱 종료, 다른 도면 열기 또는 공간 전환 시 기록이 지워지므로 먼저 PNG로 내보내거나 인쇄하세요.\n\n내보내기 및 인쇄\n출력 영역 도구로 두 모서리를 지정하고 다시 누르면 해제합니다. 영역을 지정하면 해당 영역의 도형과 측정만 PNG 및 인쇄/PDF로 출력하며, 지정하지 않으면 현재 화면을 출력합니다. PNG는 사용자 크기와 1배/2배/4배를 지원하며 비율을 유지하고 가장 긴 변을 8192픽셀로 제한합니다. 인쇄는 용지에 맞추며 설계 축척 출력이 아닙니다. Microsoft Print to PDF를 사용할 수 있습니다.\n\nGPU 및 정확도\nDirect3D 11을 기본으로 사용합니다. 아래 GPU를 끄면 미리 보기 렌더링으로 전환하며 하드웨어 오류 시 자동으로 전환됩니다. 측정값은 도면 좌표를 사용하므로 화면 확대율과 무관합니다. 단위는 도면 헤더에서 읽으며 미지정 단위를 밀리미터로 추정하지 않습니다. 기존 치수 문자가 수동으로 변경되었을 수 있으므로 실제 형상을 확인하세요. 배치는 미리 보기용이며 측정은 모형 공간에서 하세요.\n\n호환성\nSHX 및 원래 CAD 글꼴을 시스템 글꼴로 대체합니다. 복잡한 문자, 선종류 및 패턴 해치를 단순화합니다. 동적 블록은 저장된 형상을 표시하며 외부 참조는 자동으로 불러오지 않습니다. 프록시, AEC, 언더레이, XY 평면 외 객체 및 3D 객체 등에 제한이 있습니다. 스플라인과 타원 길이는 근삿값입니다. 읽기 보고서를 확인하고 원본 CAD와 대조하세요. 타사 해석기 메시지와 라이선스는 원문을 유지합니다.\n\n오픈 소스 라이선스 및 타사 고지\n\n단위: 하단에서 mm / in(인치)을 전환할 수 있으며 선택은 자동 저장됩니다. 길이, 좌표, 면적 및 기존 측정값이 변환됩니다(1 in = 25.4 mm). 도형과 각도는 변경되지 않습니다. 도면 단위가 지정되지 않았거나 지원되지 않으면 원래 값을 유지하고 단위 변환을 비활성화합니다."
+  ],
+  "显示单位": [
+    "显示单位",
+    "Display unit",
+    "표시 단위"
+  ],
+  "图纸未指定可转换的单位，保留原始数值": [
+    "图纸未指定可转换的单位，保留原始数值",
+    "Drawing units are unspecified or unsupported; original values are retained.",
+    "도면 단위가 지정되지 않았거나 지원되지 않아 원래 값을 유지합니다."
+  ],
+  "显示单位已切换并保存": [
+    "显示单位已切换并保存",
+    "Display unit changed and saved",
+    "표시 단위가 변경되어 저장되었습니다"
+  ],
+  "单位已切换，但无法保存设置：{0}": [
+    "单位已切换，但无法保存设置：{0}",
+    "Unit changed, but settings could not be saved: {0}",
+    "단위가 변경되었지만 설정을 저장하지 못했습니다: {0}"
+  ]
+}

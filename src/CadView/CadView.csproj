@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>TinyCAD.Viewer</AssemblyName>
+    <RootNamespace>TinyCAD</RootNamespace>
+    <ApplicationIcon>Assets/TinyCAD.ico</ApplicationIcon>
+    <Version>1.0.0</Version>
+    <InformationalVersion>1.0</InformationalVersion>
+    <Product>TinyCAD Viewer</Product>
+    <Description>Windows 二维 CAD 图纸查看与测量工具</Description>
+    <Deterministic>true</Deterministic>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="LibTessDotNet" Version="1.1.15" />
+    <PackageReference Include="Vortice.D3DCompiler" Version="3.6.2" />
+    <PackageReference Include="Vortice.Direct3D11" Version="3.6.2" />
+    <PackageReference Include="Vortice.Direct3D9" Version="3.6.2" />
+    <Resource Include="Assets/TinyCAD.ico" />
+    <PackageReference Include="ACadSharp" Version="3.7.16" />
+    <EmbeddedResource Include="../../licenses/*.txt" />
+    <EmbeddedResource Include="Strings.json" LogicalName="TinyCAD.Strings.json" />
+  </ItemGroup>
+</Project>
+

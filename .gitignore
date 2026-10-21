@@ -1,0 +1,11 @@
+.tools/
+**/bin/
+**/obj/
+dist/
+artifacts/
+backups/
+experiments/
+cleanup-verification.json
+*.user
+*.suo
+.vs/
