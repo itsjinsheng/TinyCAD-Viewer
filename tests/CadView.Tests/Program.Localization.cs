@@ -11,6 +11,8 @@ internal static partial class Program
     private static void LocalizationAndUnitTests()
     {
         Check(AppInfo.DisplayName == "TinyCAD Viewer 1.0", "public product name");
+        Check(L.Language == "en-US", "initial UI language is English");
+        L.SetLanguage("zh-CN");
         foreach (var pair in L.Messages)
         {
             Check(pair.Value.Length == 3 && pair.Value.All(s => !string.IsNullOrWhiteSpace(s)), "three translations: " + pair.Key);
@@ -20,7 +22,7 @@ internal static partial class Program
         var settingsFile = Path.Combine(root, "artifacts", "settings-test-" + Guid.NewGuid() + ".json");
         try
         {
-            Check(AppSettings.Load(settingsFile).DisplayUnit == "mm", "missing settings default to mm");
+            Check(AppSettings.Load(settingsFile).DisplayUnit == "mm" && AppSettings.Load(settingsFile).Language == "en-US", "first launch defaults to English and mm");
             foreach (string language in new[] { "zh-CN", "en-US", "ko-KR" })
                 foreach (string unit in new[] { "mm", "in" })
                 {
@@ -29,9 +31,9 @@ internal static partial class Program
                     Check(loaded.Language == language && loaded.DisplayUnit == unit, "language and unit persist together");
                 }
             File.WriteAllText(settingsFile, "{broken");
-            Check(AppSettings.Load(settingsFile).Language == "zh-CN", "corrupt settings recover");
+            Check(AppSettings.Load(settingsFile).Language == "en-US", "corrupt settings recover");
             File.WriteAllText(settingsFile, """{"Language":"invalid","DisplayUnit":"in"}""");
-            Check(AppSettings.Load(settingsFile).Language == "zh-CN" && AppSettings.Load(settingsFile).DisplayUnit == "in", "invalid language preserves valid unit");
+            Check(AppSettings.Load(settingsFile).Language == "en-US" && AppSettings.Load(settingsFile).DisplayUnit == "in", "invalid language preserves valid unit");
             File.WriteAllText(settingsFile, """{"Language":"ko-KR","DisplayUnit":"invalid"}""");
             Check(AppSettings.Load(settingsFile).Language == "ko-KR" && AppSettings.Load(settingsFile).DisplayUnit == "mm", "invalid unit preserves valid language");
         }

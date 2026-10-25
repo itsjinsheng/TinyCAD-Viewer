@@ -10,7 +10,7 @@ public sealed class L : INotifyPropertyChanged
 {
     private static readonly Dictionary<string, string[]> messages = LoadMessages();
     public static L Current { get; } = new();
-    public static string Language { get; private set; } = "zh-CN";
+    public static string Language { get; private set; } = "en-US";
     public static CultureInfo Culture => CultureInfo.GetCultureInfo(Language);
     public static IReadOnlyDictionary<string, string[]> Messages => messages;
     public int Revision { get; private set; }

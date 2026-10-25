@@ -7,7 +7,7 @@ public sealed class AppSettings
 {
     public static AppSettings Current { get; set; } = new();
     public string DisplayUnit { get; set; } = "mm";
-    public string Language { get; set; } = "zh-CN";
+    public string Language { get; set; } = "en-US";
     public static string DefaultPath => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "TinyCAD", "settings.json");
 
     public static AppSettings Load(string? path = null)
@@ -17,7 +17,7 @@ public sealed class AppSettings
             var settings = JsonSerializer.Deserialize<AppSettings>(File.ReadAllText(path ?? DefaultPath));
             if (settings != null)
             {
-                if (!L.IsSupported(settings.Language)) settings.Language = "zh-CN";
+                if (!L.IsSupported(settings.Language)) settings.Language = "en-US";
                 if (!MeasurementUnits.IsDisplayUnit(settings.DisplayUnit)) settings.DisplayUnit = "mm";
                 return settings;
             }

@@ -23,6 +23,7 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         WindowTheme.Attach(this);
+        AttachCaptionInsets();
         UpdateLanguageSelection();
         UpdateUnitSelection();
         L.LanguageChanged += RefreshLanguage;

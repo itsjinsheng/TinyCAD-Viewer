@@ -577,7 +577,7 @@ internal static partial class Program
         var first = Capture();
         Check(Pixel(first, new(20, 20)).R > 220, "GPU mesh fills red polygon at expected world location");
         Check(Pixel(first, new(65, 20)).G > 220 && Pixel(first, new(75, 20)).G < 100, "GPU scissor preserves drawing clip region");
-        int frames = canvas.GpuRenderedFrames; canvas.PanBy(new(30, 12)); Pump(); var moved = Capture();
+        int frames = canvas.GpuRenderedFrames; canvas.PanBy(new(30, 12)); WaitForPreview(canvas); var moved = Capture();
         Check(canvas.GpuRenderedFrames > frames && !first.SequenceEqual(moved) && Pixel(moved, new(20, 20)).R > 220,
             "GPU pan updates surface pixels and preserves world mapping");
         var ellipse = new CadShape { Color = Colors.Red, StrokeWidth = 3 };
